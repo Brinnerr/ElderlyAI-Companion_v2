@@ -1,0 +1,14 @@
+{
+    "dataset": "Conversation Dataset",
+    "total_samples": 273499,
+    "average_input_words": 12.98,
+    "average_response_words": 13.54,
+    "sources": {
+        "PersonaChat": 122382,
+        "EmpatheticDialogues": 71970,
+        "DailyDialog": 79147
+    },
+    "categories": {
+        "conversation": 273499
+    }
+}
