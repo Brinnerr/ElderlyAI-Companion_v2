@@ -1,8 +1,8 @@
+*.json filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 Medical/medical_train.json filter=lfs diff=lfs merge=lfs -text
 Medical/medical[[:space:]](1).zip filter=lfs diff=lfs merge=lfs -text
 Conversation/persona_train.json filter=lfs diff=lfs merge=lfs -text
 Medical/medical[[:space:]]jsons[[:space:]][[:space:]]before[[:space:]]merging/MedDialog.json filter=lfs diff=lfs merge=lfs -text
 Medical/medical[[:space:]]jsons[[:space:]][[:space:]]before[[:space:]]merging/HealthCareMagicQA.json filter=lfs diff=lfs merge=lfs -text
 Medical/result/medical[[:space:]](1).json filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
