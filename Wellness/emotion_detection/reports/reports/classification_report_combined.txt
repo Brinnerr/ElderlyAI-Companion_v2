@@ -1,0 +1,18 @@
+              precision    recall  f1-score   support
+
+       Happy       0.88      0.84      0.86      2717
+         Sad       0.79      0.84      0.81       864
+       Angry       0.57      0.81      0.67       947
+        Fear       0.74      0.88      0.80       304
+     Neutral       0.77      0.65      0.70      2205
+
+    accuracy                           0.78      7037
+   macro avg       0.75      0.80      0.77      7037
+weighted avg       0.79      0.78      0.78      7037
+
+
+Per-source breakdown:
+              accuracy  f1_macro       n
+source                                  
+dair_emotion  0.935500  0.878954  2000.0
+go_emotions   0.712924  0.661320  5037.0
